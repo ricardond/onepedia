@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #ffff;
+  }
+
+.masthead h1{
+    font-family: 'Pirata One', sans-serif;
+    font-size: 50px;
+}
